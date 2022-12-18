@@ -21,6 +21,7 @@ For more details check out my [academic website](https://leonardopedroso.github.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=leonardopedroso&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=leonardopedroso&show_icons=true&theme=dark)![](https://github-readme-stats.vercel.app/api/top-langs?username=leonardopedroso&theme=dark)
+
 ![](https://git.io/streak-stats)
 
 ## ☎️ Contact 
