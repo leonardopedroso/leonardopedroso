@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 
-- 🧪 I am a **PhD Candidate** at the **Control Systems Technology** Research Group at **TU Eindhoven**. 
+- 🧪 I am a **PhD Candidate** in the **Control Systems Technology** Research Group at **TU Eindhoven**. 
 - 🚀 I received the MSc in **Aerospace Engineering** in 2022, from Instituto Superior Técnico, Portugal.
 - 👀 I’m interested in **aggregative game theory** and **decentralized control** over **very large-scale networks**.
 
