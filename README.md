@@ -14,7 +14,7 @@ For more details check out my [academic website](https://leonardopedroso.github.
 [[Webpage](https://decenter2021.github.io)]
 - ⚗️ [Quadruple-Tank Setup](https://github.com/decenter2021/quadruple-tank-setup): Reproducible Low-cost Quadruple-Tank Process Experimental Setup.
 - 🚦 [SAFFRON](https://github.com/decenter2021/SAFFRON): Store-And-Forward model toolbox For urban ROad Network signal control in MATLAB.
-- 🛰 [osculating2mean](https://github.com/decenter2021/osculating2mean): Convert osculating to/from mean orbital elements using spherical harmonics Earth gravity potential in MATLAB.
+- 🛰 [osculating2mean](https://github.com/decenter2021/osculating2mean): Convert osculating to/from mean orbital elements using spherical harmonics Earth gravity potential.
 - 🚀 [tudat-matlab-thrust-feedback](https://github.com/decenter2021/tudat-matlab-thrust-feedback): Thrust feedback of TUDAT application using MATLAB.
 
 ## ⚡️ Statistics
