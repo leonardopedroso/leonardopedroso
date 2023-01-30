@@ -29,4 +29,4 @@ For more details check out my [academic website](https://leonardopedroso.github.
 
 ## ☎️ Contact 
 
-You can reach me at [leonardo.pedroso@tecnico.ulisboa.pt](mailto:leonardo.pedroso@tecnico.ulisboa.pt)
+You can reach me at [l.pedroso@tue.nl](mailto:leonardo.pedroso@tecnico.ulisboa.pt)
